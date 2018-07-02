@@ -1,0 +1,13 @@
+{
+  "name": "@posva/lerna-dependent",
+  "version": "0.0.0",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@posva/lerna-a": "^0.0.0",
+    "@posva/lerna-b": "^0.0.0"
+  },
+  "license": "MIT"
+}
