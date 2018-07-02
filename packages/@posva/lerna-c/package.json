@@ -1,0 +1,9 @@
+{
+  "name": "@posva/lerna-c",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
