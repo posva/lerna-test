@@ -1,5 +1,5 @@
 {
-  "name": "lerna-b",
+  "name": "@posva/lerna-b",
   "version": "0.0.0",
   "main": "index.js",
   "publishConfig": {
