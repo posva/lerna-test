@@ -1,9 +1,12 @@
 {
-  "name": "lerna-a",
+  "name": "lerna-b",
   "version": "0.0.0",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
+  },
+  "scripts": {
+    "start": "node index.js"
   },
   "license": "MIT",
   "dependencies": {
