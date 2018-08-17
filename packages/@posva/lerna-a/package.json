@@ -1,12 +1,13 @@
 {
   "name": "@posva/lerna-a",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "preversion": "echo NONONNNNNNNNNNNNNNNN"
   },
   "license": "MIT",
   "dependencies": {
