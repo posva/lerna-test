@@ -1,3 +1,4 @@
+// comment
 const cows = require('cows')()
 
 console.log('Hello from module B')
