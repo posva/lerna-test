@@ -7,7 +7,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "preversion": "echo NONONNNNNNNNNNNNNNNN"
+    "version": "date > now.txt"
   },
   "license": "MIT",
   "dependencies": {
